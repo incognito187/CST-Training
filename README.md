@@ -58,10 +58,20 @@ so that my input can help improve future courses.
 
 **Sales Pipeline Management**
 
-As a sales manager, I want to track leads and manage the sales pipeline in HubSpot so that I can forecast sales and manage resources efficiently.
-As a sales representative, I want to receive notifications for follow-up tasks so that I can ensure timely communication with prospects.
+As a sales manager, 
+I want to track leads and manage the sales pipeline in HubSpot 
+so that I can forecast sales and manage resources efficiently.
+
+As a sales representative, 
+I want to receive notifications for follow-up tasks
+so that I can ensure timely communication with prospects.
 
 **Automated Reporting**
 
-As a marketing manager, I want automated reports on campaign performance so that I can quickly assess the effectiveness of marketing efforts.
-As a course coordinator, I want regular updates on enrollment numbers so that I can manage class sizes and resources.
+As a marketing manager, 
+I want automated reports on campaign performance 
+so that I can quickly assess the effectiveness of marketing efforts.
+
+As a course coordinator, 
+I want regular updates on enrollment numbers 
+so that I can manage class sizes and resources.
