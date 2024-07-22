@@ -75,3 +75,37 @@ so that I can quickly assess the effectiveness of marketing efforts.
 As a course coordinator, 
 I want regular updates on enrollment numbers 
 so that I can manage class sizes and resources.
+
+
+
+* Contact-based workflows:
+
+These workflows automate actions based on your contacts' behavior, allowing you to personalize communications. 
+For example, you can send automated follow-ups to contacts who haven't opened an email in 30 days, 
+enroll new subscribers in onboarding email sequences, and add contacts to segments based on their preferences. 
+
+* Deal-based workflows:
+
+Trigger actions like Slack notifications or follow-up tasks when deal properties are updated. 
+This provides real-time visibility into deal milestones and changes, ensuring timely follow-up. 
+
+* Company-based workflows:
+
+Automate actions based on company records, such as sending annual review requests or triggering 
+specific communications based on company size or industry. 
+
+* Ticket-based workflows:
+
+Help customer service teams manage issues seamlessly by updating priority, assignment, 
+and status as issues move from open to closed. 
+
+* Quote-based workflows: 
+
+Trigger notifications at specific milestones, 
+like 5 days before the expiration date, and automate sending discount approvals to ensure 
+proper oversight of pricing. 
+
+* Third-party app workflows: 
+
+Tools like Luru can extend beyond the native capabilities of 
+HubSpot to create multi-step workflows that integrate with other applications. 
