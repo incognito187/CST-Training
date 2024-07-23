@@ -112,7 +112,7 @@ HubSpot to create multi-step workflows that integrate with other applications.
 
 ### User Story 1
 
-As a marketing manager at CST Training,
+As a marketing manager at CST Training,<br>
 I want to automatically send personalized emails to potential students based on their course interests and previous website interactions,
 So that I can increase course enrollment and engagement.
 
