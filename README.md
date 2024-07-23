@@ -124,21 +124,21 @@ So that I can quickly follow up and provide personalized guidance.
 
 ### User Story 3
 
-As a student at CST Training,
-I want to receive automated reminders for upcoming courses and deadlines,
-So that I can stay organized and on track with my training.
+**As** a student at CST Training,
+**I** want to receive automated reminders for upcoming courses and deadlines,
+**So** that I can stay organized and on track with my training.
 
 ### User Story 4
 
-As a training manager at CST Training,
-I want to automatically track course completion and performance data,
-So that I can assess student progress and identify areas for improvement.
+**As** a training manager at CST Training,
+**I** want to automatically track course completion and performance data,
+**So** that I can assess student progress and identify areas for improvement.
 
 ### User Story 5
 
-As a marketing manager at CST Training,
-I want to automate the creation of lead nurturing campaigns,
-So that I can build relationships with potential students and 
+**As** a marketing manager at CST Training,
+**I** want to automate the creation of lead nurturing campaigns,
+**So** that I can build relationships with potential students and 
 guide them through the enrollment process.
 
 
