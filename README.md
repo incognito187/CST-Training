@@ -113,74 +113,75 @@ HubSpot to create multi-step workflows that integrate with other applications.
 ### User Story 1
 
 As a marketing manager at CST Training,<br>
-I want to automatically send personalized emails to potential students based on their course interests and previous website interactions,
-So that I can increase course enrollment and engagement.
+I want to automatically send personalized emails to potential<br>
+students based on their course interests and previous website interactions,<br>
+So that I can increase course enrollment and engagement.<br>
 
 ### User Story 2
 
-As a course advisor at CST Training,
-I want to receive automated notifications when a potential student submits an inquiry form,
-So that I can quickly follow up and provide personalized guidance.
+As a course advisor at CST Training,<br>
+I want to receive automated notifications when a potential student submits an inquiry form,<br>
+So that I can quickly follow up and provide personalized guidance.<br>
 
 ### User Story 3
 
-**As** a student at CST Training,
-**I** want to receive automated reminders for upcoming courses and deadlines,
-**So** that I can stay organized and on track with my training.
+**As** a student at CST Training,<br>
+**I** want to receive automated reminders for upcoming courses and deadlines,<br>
+**So** that I can stay organized and on track with my training.<br>
 
 ### User Story 4
 
-**As** a training manager at CST Training,
-**I** want to automatically track course completion and performance data,
-**So** that I can assess student progress and identify areas for improvement.
+**As** a training manager at CST Training,<br>
+**I** want to automatically track course completion and performance data,<br>
+**So** that I can assess student progress and identify areas for improvement.<br>
 
 ### User Story 5
 
-**As** a marketing manager at CST Training,
-**I** want to automate the creation of lead nurturing campaigns,
-**So** that I can build relationships with potential students and 
-guide them through the enrollment process.
+**As** a marketing manager at CST Training,<br>
+**I** want to automate the creation of lead nurturing campaigns,<br>
+**So** that I can build relationships with potential students and<br>
+guide them through the enrollment process.<br>
 
 
 
-Workflow Name: Welcome Email Sequence
-
-Purpose: To welcome new leads to CST Training and provide them with valuable information about the services offered.
-
-Trigger: New Contact is Created
-
-Workflow Steps:
-
-Delay: Wait for 1 hour after the contact is created. This allows time for the contact information to be captured.
-
-Email: Send the first email in the sequence.
-
-Subject: Welcome to CST Training!
-
-Body: A warm welcome message, introducing CST Training's services and value proposition.
-
-Personalization: Use contact information (e.g., first name) to personalize the message.
-
-Call to action: Encourage the contact to visit the website for more information or schedule a consultation.
-
-Delay: Wait for 3 days after the first email is sent.
-
-Email: Send the second email in the sequence.
-
-Subject: Learn More About Our [Course Category] Programs
-
-Body: Highlight relevant courses or training programs based on the contact's interests (if available).
-
-Personalization: Mention specific courses or programs based on the contact's previous website interactions.
-
+**Workflow Name**: Welcome Email Sequence<br>
+<br>
+**Purpose**: To welcome new leads to CST Training and provide them with valuable information about the services offered.
+<br>
+**Trigger**: New Contact is Created
+<br>
+**Workflow Steps**:
+<br>
+**Delay**: Wait for 1 hour after the contact is created. This allows time for the contact information to be captured.
+<br>
+**Email**: Send the first email in the sequence.
+<br>
+**Subject**: Welcome to CST Training!
+<br>
+**Body**: A warm welcome message, introducing CST Training's services and value proposition.
+<br>
+**Personalization**: Use contact information (e.g., first name) to personalize the message.
+<br>
+**Call to action**: Encourage the contact to visit the website for more information or schedule a consultation.
+<br>
+**Delay**: Wait for 3 days after the first email is sent.
+<br>
+**Email**: Send the second email in the sequence.
+<br>
+**Subject**: Learn More About Our [Course Category] Programs
+<br>
+**Body**: Highlight relevant courses or training programs based on the contact's interests (if available).
+<br>
+**Personalization**: Mention specific courses or programs based on the contact's previous website interactions.
+<br>
 Call to action: Encourage the contact to download a brochure or request a personalized course recommendation.
-
-Delay: Wait for 5 days after the second email is sent.
-
-Email: Send the final email in the sequence.
-
+<br>
+**Delay**: Wait for 5 days after the second email is sent.
+<br>
+**Email:** Send the final email in the sequence.
+<br>
 Subject: Don't Miss Our Upcoming [Event/Webinar/Workshop]
-
-Body: Promote an upcoming event or educational resource that aligns with the contact's interests.
-
-Call to action: Encourage the contact to register for the event or access the resource.
+<br>
+**Body**: Promote an upcoming event or educational resource that aligns with the contact's interests.
+<br>
+**Call to action**: Encourage the contact to register for the event or access the resource.
