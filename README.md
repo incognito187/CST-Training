@@ -1,15 +1,11 @@
 # CST-Training
 CST Training 
 
-CjwKCAjwhvi0BhA4EiwAX25uj6hJw3aUrd_mQNF7BWXisRJHoUQpeQbvDZTIgtjsuLe8kZ6WoG5d6hoCf5sQAvD_BwE
-
-
-
 **CST Training**  - User Stories
 
 User Stories
 
-**Lead Capture & Nurturing**
+### **Lead Capture & Nurturing**
 
 As a prospective student, 
 I want to receive relevant course information 
@@ -19,7 +15,7 @@ As a marketing manager,
 I want to automatically capture leads from website forms 
 so that I can follow up with potential students promptly.
 
-**Email Marketing Campaigns**
+### **Email Marketing Campaigns**
 
 As a marketing manager, 
 I want to create segmented email lists based on user interests 
@@ -29,7 +25,7 @@ As a prospective student,
 I want to receive email reminders about upcoming courses 
 so that I don’t miss enrollment deadlines.
 
-**Customer Journey Mapping**
+### **Customer Journey Mapping**
 
 As a marketing manager, 
 I want to visualize the customer journey 
@@ -39,7 +35,7 @@ As a prospective student,
 I want a seamless experience from initial inquiry to course enrollment 
 so that I feel confident in my choice.
 
-**Course Enrollment Follow-up**
+### **Course Enrollment Follow-up**
 
 As a course coordinator, 
 I want automated follow-up emails post-enrollment 
@@ -49,7 +45,7 @@ As a new student,
 I want to get timely updates and preparatory materials 
 so that I am ready for my training.
 
-**Feedback Collection**
+### **Feedback Collection**
 
 As a course coordinator, 
 I want to send automated feedback surveys after course completion 
@@ -59,7 +55,7 @@ As a student,
 I want to easily provide feedback on the training I received 
 so that my input can help improve future courses.
 
-**Sales Pipeline Management**
+### **Sales Pipeline Management**
 
 As a sales manager, 
 I want to track leads and manage the sales pipeline in HubSpot 
@@ -69,7 +65,7 @@ As a sales representative,
 I want to receive notifications for follow-up tasks
 so that I can ensure timely communication with prospects.
 
-**Automated Reporting**
+### **Automated Reporting**
 
 As a marketing manager, 
 I want automated reports on campaign performance 
@@ -144,3 +140,47 @@ As a marketing manager at CST Training,
 I want to automate the creation of lead nurturing campaigns,
 So that I can build relationships with potential students and 
 guide them through the enrollment process.
+
+
+
+Workflow Name: Welcome Email Sequence
+
+Purpose: To welcome new leads to CST Training and provide them with valuable information about the services offered.
+
+Trigger: New Contact is Created
+
+Workflow Steps:
+
+Delay: Wait for 1 hour after the contact is created. This allows time for the contact information to be captured.
+
+Email: Send the first email in the sequence.
+
+Subject: Welcome to CST Training!
+
+Body: A warm welcome message, introducing CST Training's services and value proposition.
+
+Personalization: Use contact information (e.g., first name) to personalize the message.
+
+Call to action: Encourage the contact to visit the website for more information or schedule a consultation.
+
+Delay: Wait for 3 days after the first email is sent.
+
+Email: Send the second email in the sequence.
+
+Subject: Learn More About Our [Course Category] Programs
+
+Body: Highlight relevant courses or training programs based on the contact's interests (if available).
+
+Personalization: Mention specific courses or programs based on the contact's previous website interactions.
+
+Call to action: Encourage the contact to download a brochure or request a personalized course recommendation.
+
+Delay: Wait for 5 days after the second email is sent.
+
+Email: Send the final email in the sequence.
+
+Subject: Don't Miss Our Upcoming [Event/Webinar/Workshop]
+
+Body: Promote an upcoming event or educational resource that aligns with the contact's interests.
+
+Call to action: Encourage the contact to register for the event or access the resource.
