@@ -110,31 +110,31 @@ Tools like Luru can extend beyond the native capabilities of
 HubSpot to create multi-step workflows that integrate with other applications. 
 
 
-*User Story 1
+### *User Story 1
 
 As a marketing manager at CST Training,
 I want to automatically send personalized emails to potential students based on their course interests and previous website interactions,
 So that I can increase course enrollment and engagement.
 
-*User Story 2
+### *User Story 2
 
 As a course advisor at CST Training,
 I want to receive automated notifications when a potential student submits an inquiry form,
 So that I can quickly follow up and provide personalized guidance.
 
-*User Story 3
+### *User Story 3
 
 As a student at CST Training,
 I want to receive automated reminders for upcoming courses and deadlines,
 So that I can stay organized and on track with my training.
 
-*User Story 4
+### *User Story 4
 
 As a training manager at CST Training,
 I want to automatically track course completion and performance data,
 So that I can assess student progress and identify areas for improvement.
 
-*User Story 5
+### *User Story 5
 
 As a marketing manager at CST Training,
 I want to automate the creation of lead nurturing campaigns,
